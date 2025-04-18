@@ -1,0 +1,95 @@
+[
+    {
+      "category": "men",
+      "name": "Batman Oversized T-Shirt",
+      "price": 999,
+      "image": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/d/b/dbdd056NNNY_THECB00010183_1.jpg"
+    },
+    {
+      "category": "men",
+      "name": "Atranger Things Oversized T-Shirt",
+      "price": 899,
+      "image": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/0/a/0a04494ST-194948_1.jpg"
+    },
+    {
+      "category": "men",
+      "name": "WWE: The Shield United T-shirt",
+      "price": 899,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71hXRwjQrNL._UL1500_.jpg"
+    },
+    {
+      "category": "men",
+      "name": "Dexter Power of Science T-shirt",
+      "price": 899,
+      "image": "https://images-static.nykaa.com/media/catalog/product/4/8/4858d43THECB00012186_1.jpg"
+    },
+    {
+      "category": "men",
+      "name": "Burgundy Mandarin Polos",
+      "price": 1099,
+      "image": "https://images-static.nykaa.com/media/catalog/product/8/e/8e57d43THECB00012194_1.jpg"
+    },
+  
+    {
+      "category": "women",
+      "name": "Heather Fire Canyon Sweater",
+      "price": 1299,
+      "image": "https://www.larazawestern.com/wp-content/uploads/10041672_01.jpg"
+    },
+    {
+      "category": "women",
+      "name": "Soft Shell Jacket",
+      "price": 1399,
+      "image": "https://www.larazawestern.com/wp-content/uploads/10048812_01_warm.jpeg"
+    },
+    {
+      "category": "women",
+      "name": "Criss-Cross Long-sleeved Top",
+      "price": 699,
+      "image": "https://img.kwcdn.com/product/1dab9aaa62/f1abadff-59d3-4842-802b-94907f445838_1350x1800.jpeg.a.jpeg"
+    },
+    {
+      "category": "women",
+      "name": "Scoop Neck Jumpsuit",
+      "price": 1499,
+      "image": "https://aliexpress-images.spocket.co/1005005601170829.jpg"
+    },
+    {
+      "category": "women",
+      "name": "Halter Top for Summer",
+      "price": 999,
+      "image": "https://i.pinimg.com/originals/bd/20/a2/bd20a2072310011d41efe4662e959670.jpg"
+    },
+  
+    {
+      "category": "kids",
+      "name": "Animal Pattern T-Shirt",
+      "price": 499,
+      "image": "https://1.bp.blogspot.com/-AeD_nedR6gg/XwpvYGhSkFI/AAAAAAAADTc/XHBTCI_Ut_ocwenR_vZJh-hJuFAdzM0vQCLcBGAsYHQ/s800/246c0a9f-de83-40d4-ad98-91b25b163013.jpg"
+    },
+    {
+      "category": "kids",
+      "name": "Stylish Kids T-Shirt",
+      "price": 699,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/810soAnyAQL._UL1500_.jpg"
+    },
+    {
+      "category": "kids",
+      "name": "Basic T-shirt Pink",
+      "price": 699,
+      "image": "https://contents.mediadecathlon.com/p2237599/k$fa7581dfddee20c49a6c18aa7cfe80c3/kids-basic-t-shirt-pink-decathlon-8666077.jpg"
+    },
+    {
+      "category": "kids",
+      "name": "Marvel T-shirt",
+      "price": 899,
+      "image": "https://www.4sgm.com/assets/Image/Product/thumb/77369.jpg"
+    },
+    {
+      "category": "kids",
+      "name": "Premium Kids Zip Hoodie",
+      "price": 1199,
+      "image": "https://www.customembroidery.ie/wp-content/uploads/2018/04/Royal-2.jpg"
+    }
+  ]
+  
